@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Syed San-e-Ali 👋
 
 ## About Me
 I am a **MERN Stack Developer** passionate about building web and mobile applications.  
@@ -21,5 +21,5 @@ I love exploring new technologies, writing clean code, and creating awesome user
 ---
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaneali01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaneali01&layout=compact&theme=radical)
