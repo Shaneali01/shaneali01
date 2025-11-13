@@ -1,4 +1,4 @@
-# Hi, I'm Syed San-e-Ali 👋
+# Hi, I'm Syed Shan-e-Ali 👋
 
 ## About Me
 I am a **MERN Stack Developer** passionate about building web and mobile applications.  
